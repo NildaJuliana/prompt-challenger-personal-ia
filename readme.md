@@ -121,3 +121,96 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 ---
 
 ## 🎯 Prompt de Resposta Proposto
+
+**Proposta obtida através do ChatGPT**
+
+Com base nas variáveis e nas regras que você forneceu, aqui está um treino adaptado para o perfil de um aluno mesomorfo, sedentário, 
+de 35 anos, com dores na coluna, disponibilidade de 5 dias para treino, e foco em exercícios funcionais, cardio e HIIT. Esse treino 
+também considera as restrições alimentares devido à gastrite e alergias específicas.
+
+### Plano de Treino
+
+**Objetivo:** Fortalecer a musculatura, aliviar dores na coluna, melhorar a resistência cardiovascular e mobilidade, além de promover 
+a perda de gordura.
+
+**Estrutura do Treino:** ABCDE, com ênfase em exercícios de fortalecimento e mobilidade.
+
+---
+
+### **Dia 1 - Treino Funcional: Core e Mobilidade**
+
+- **Aquecimento (5-10 min)**: Caminhada leve e alongamentos dinâmicos.
+- **Circuito de Core e Mobilidade** (3x cada exercício):
+  - Ponte glútea (15 repetições)
+  - Prancha com apoio de antebraço (20-30 segundos)
+  - Abdominais com elevação de pernas (12 repetições)
+  - Exercício de mobilidade para coluna lombar (5 repetições para cada lado)
+- **Alongamento (5 min)**: Alongamento focado em coluna e flexores do quadril.
+
+> **Objetivo**: Melhorar a estabilidade da coluna e fortalecer o core para aliviar a pressão nas costas.
+
+---
+
+### **Dia 2 - Cardio de Baixa Intensidade**
+
+- **Caminhada Inclinada ou Bicicleta Ergométrica** (30 min)
+  - Intensidade: Moderada, para evitar sobrecarga na coluna.
+  - Manter ritmo constante e sem sobrecarregar a postura.
+- **Alongamento (5 min)**: Especialmente para lombar e membros inferiores.
+
+> **Objetivo**: Estimular o sistema cardiovascular de forma leve e segura para o aluno sedentário.
+
+---
+
+### **Dia 3 - Treino Funcional: Membros Inferiores**
+
+- **Aquecimento (5-10 min)**: Caminhada e alongamentos.
+- **Exercícios Funcionais** (3x cada exercício):
+  - Agachamento com peso corporal (15 repetições)
+  - Avanço (12 repetições por perna)
+  - Elevação de calcanhar (15 repetições)
+  - Exercício de mobilidade de quadril (10 repetições)
+- **Alongamento (5 min)**: Alongamento de membros inferiores.
+
+> **Objetivo**: Desenvolver força nas pernas, o que ajuda a estabilizar a coluna e reduzir dores nas costas.
+
+---
+
+### **Dia 4 - HIIT de Baixa Intensidade para Iniciantes**
+
+- **Circuito HIIT (4 rodadas)**:
+  - Jumping Jacks (30 segundos)
+  - Agachamento com apoio (15 repetições)
+  - Elevação de joelhos (30 segundos)
+  - Deslocamento lateral (30 segundos)
+  - Descanso entre exercícios: 30 segundos
+- **Alongamento (5 min)**: Mobilidade de quadril e ombros.
+
+> **Objetivo**: Promover queima calórica e melhorar a capacidade cardiorrespiratória com intensidade controlada para evitar
+> impacto excessivo na coluna.
+
+---
+
+### **Dia 5 - Treino Funcional: Membros Superiores e Core**
+
+- **Aquecimento (5-10 min)**: Movimentos leves de ombro e rotação de tronco.
+- **Circuito Funcional para Membros Superiores** (3x cada exercício):
+  - Remada com elástico (15 repetições)
+  - Flexão com apoio no joelho (12 repetições)
+  - Prancha com extensão alternada de braço (20-30 segundos)
+  - Alongamento ativo de coluna torácica (10 repetições)
+- **Alongamento (5 min)**: Alongamento para ombros e braços.
+
+> **Objetivo**: Fortalecer os membros superiores e estabilizar o core para suporte da coluna.
+
+---
+
+### **Considerações Nutricionais**
+
+- **Gastrite**: Priorizar alimentos cozidos e de fácil digestão, evitando legumes crus em excesso.
+- **Alergias**: Eliminar qualquer produto que contenha amendoim, castanhas e frutos do mar.
+- **Sugestão**: Pequenas refeições leves e frequentes ajudam a reduzir o desconforto da gastrite, e fontes de proteína como
+- frango, ovos e iogurtes são boas opções que respeitam as restrições.
+
+Esse plano de treino é pensado para evoluir gradualmente, respeitando o estado sedentário e as condições de saúde do aluno. 
+Com o tempo e a orientação certa, é possível progredir com segurança para aumentar a intensidade dos exercícios.
